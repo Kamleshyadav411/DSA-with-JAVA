@@ -23,7 +23,7 @@ public class Binary_Search_Basics{
     }
     public static void main(String args[]){
         int arr[]={2,4,5,6,7,8,9};
-        int key = 2;
+        int key = 6;
         int index = bs(arr,key);
         System.out.println(index);
     }
